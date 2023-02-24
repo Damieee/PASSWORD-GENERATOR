@@ -1,6 +1,4 @@
-# PASSWORD-GENERATOR
-
-# PASSWORD-GENERATOR
+# PROBLEM-GENERATOR
 Project: Math Problem Generator
 
 In this project, you'll write a Python program that generates math problems and asks the user to solve them. The program will keep track of the user's score and give them a final score at the end.
